@@ -14,7 +14,7 @@ Refactored code to have it meet accessible standards for users and search engine
 
  * Heading attributes in sequential order
 
- * Decriptive title attribute
+ * Descriptive title attribute
 
  # Technology used
 
